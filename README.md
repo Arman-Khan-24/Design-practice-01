@@ -12,3 +12,9 @@ A simple, responsive webpage design using **HTML5** and **CSS3** for practice.
 1. Clone the repository:
    ```bash
    git clone https://github.com/Arman-Khan-24/Design-practice-01.git
+
+## Visit this website : 
+
+2. Visit the below link to access the website :
+   ```bash
+   https://arman-khan-24.github.io/Design-practice-01/
